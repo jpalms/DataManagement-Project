@@ -10,5 +10,9 @@ A project modeling the database managing aspect of an automobile company
  
 ## How to run it
 
-  * tbd
+  * Navigate to /bin
+  * Run ./h2.sh
+  
+  JDBC URL: jdbc:h2:~/GM
+  User Name: root
   
