@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6ea2d79-2067-4341-8cd8-e792c89c38d6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4cc50a3a-77e6-4389-b805-100f02e0cc01.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4cc50a3a-77e6-4389-b805-100f02e0cc01.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4cc50a3a-77e6-4389-b805-100f02e0cc01/console.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            <state relative-caret-position="303">
+              <caret line="31" column="133" selection-start-line="31" selection-start-column="133" selection-end-line="31" selection-end-column="133" />
             </state>
           </provider>
         </entry>
@@ -49,16 +50,16 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="497" />
     <option name="y" value="23" />
-    <option name="width" value="943" />
-    <option name="height" value="768" />
+    <option name="width" value="877" />
+    <option name="height" value="804" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -71,7 +72,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -109,17 +109,19 @@
       <option name="presentableId" value="Default" />
       <updated>1552956467791</updated>
       <workItem from="1552959227130" duration="782000" />
+      <workItem from="1553011133847" duration="542000" />
+      <workItem from="1553017723864" duration="2247000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="782000" />
+    <option name="totallyTimeSpent" value="3571000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="497" y="23" width="943" height="768" extended-state="0" />
+    <frame x="0" y="23" width="877" height="804" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.03329634" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.035928145" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -128,10 +130,7 @@
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info active="true" id="DB Browser" order="8" visible="true" weight="0.3298969" />
-      <window_info active="true" anchor="bottom" id="Database Console" visible="true" weight="0.5473373" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info id="Web" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -143,7 +142,10 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="DB Execution Console" order="10" />
-      <window_info anchor="right" id="Database" visible="true" weight="0.4972253" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="11" visible="true" weight="0.3244382" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -152,6 +154,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" visible="true" weight="0.09461078" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,8 +193,8 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4cc50a3a-77e6-4389-b805-100f02e0cc01/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state relative-caret-position="303">
+          <caret line="31" column="133" selection-start-line="31" selection-start-column="133" selection-end-line="31" selection-end-column="133" />
         </state>
       </provider>
     </entry>
