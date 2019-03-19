@@ -28,9 +28,7 @@ public class AdminGUI extends JFrame {
         JButton submit = new JButton("Submit");
 
         //Add functionality to the button
-        submit.addActionListener( e -> {
-            sqlCommand = text.getText();
-        });
+        submit.addActionListener( e -> sqlCommand = text.getText() );
 
         //Add the components to the actual view
         this.add(label);
