@@ -28,7 +28,7 @@
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4cc50a3a-77e6-4389-b805-100f02e0cc01/console.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="509">
-              <caret line="50" column="57" selection-start-line="50" selection-start-column="57" selection-end-line="50" selection-end-column="57" />
+              <caret line="50" column="57" lean-forward="true" selection-start-line="50" selection-start-column="57" selection-end-line="50" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -46,10 +46,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="563" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="11" />
     <option name="y" value="29" />
-    <option name="width" value="877" />
+    <option name="width" value="1429" />
     <option name="height" value="804" />
   </component>
   <component name="ProjectView">
@@ -109,16 +109,15 @@
       <workItem from="1552959227130" duration="782000" />
       <workItem from="1553011133847" duration="542000" />
       <workItem from="1553017723864" duration="2361000" />
-      <workItem from="1553101096511" duration="995000" />
+      <workItem from="1553101096511" duration="1199000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4680000" />
+    <option name="totallyTimeSpent" value="4884000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="563" y="29" width="877" height="804" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.035928145" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -193,7 +192,7 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4cc50a3a-77e6-4389-b805-100f02e0cc01/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="509">
-          <caret line="50" column="57" selection-start-line="50" selection-start-column="57" selection-end-line="50" selection-end-column="57" />
+          <caret line="50" column="57" lean-forward="true" selection-start-line="50" selection-start-column="57" selection-end-line="50" selection-end-column="57" />
         </state>
       </provider>
     </entry>
