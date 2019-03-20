@@ -27,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4cc50a3a-77e6-4389-b805-100f02e0cc01/console.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="509">
+              <caret line="50" column="57" selection-start-line="50" selection-start-column="57" selection-end-line="50" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -47,7 +47,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="563" />
+    <option name="y" value="29" />
     <option name="width" value="877" />
     <option name="height" value="804" />
   </component>
@@ -56,8 +57,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -69,6 +68,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -108,14 +109,16 @@
       <workItem from="1552959227130" duration="782000" />
       <workItem from="1553011133847" duration="542000" />
       <workItem from="1553017723864" duration="2361000" />
+      <workItem from="1553101096511" duration="995000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3685000" />
+    <option name="totallyTimeSpent" value="4680000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="877" height="804" extended-state="0" />
+    <frame x="563" y="29" width="877" height="804" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.035928145" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -189,8 +192,8 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4cc50a3a-77e6-4389-b805-100f02e0cc01/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="509">
+          <caret line="50" column="57" selection-start-line="50" selection-start-column="57" selection-end-line="50" selection-end-column="57" />
         </state>
       </provider>
     </entry>
